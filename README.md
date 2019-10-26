@@ -1,7 +1,7 @@
 
 # Let's Celebrate the Open Source Festival of Hacktober by making a contribution in the simplest way possible.
 
-Let's make a simple contribution to this repository and increase your chances of winning awesome cool swags from Hacktober Fest.
+Let's make a simple contribution to this repository and increase your chances of GETTING awesome cool swags from Hacktober Fest.
 
 Let me show you how easy it is:
 
