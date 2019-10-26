@@ -50,7 +50,7 @@ It's finally that time when you commit your changes and leave a beautiful commit
 ``` git add . ```    
 ``` git commit -m "<Your Message>" ```  
 For example:  
-``` git commit -m "Added Abhushan's Story" ```  
+``` git commit -m "Added Vikrant's Story" ```  
 
 Finally, push your changes to Github:  
 To do so run the following command:
